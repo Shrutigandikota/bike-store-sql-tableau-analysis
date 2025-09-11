@@ -24,7 +24,7 @@ The data source is included as an extract in the .twbx file, so users can intera
 
 ### SQL Setup
 1. Download the bikestore dataset from Kaggle.
-2. Run the ['bikestore_data.sql'](sql_scripts/bikestore_data.sql) script to create database and tables in SQL Server. 
+2. Run the [bikestore_data.sql](sql_scripts/bikestore_data.sql) script to create database and tables in SQL Server. 
 3. Import the dataset into the corresponding tables.
 4. Execute the remaining SQL scripts to generate insights.
 
