@@ -13,11 +13,12 @@ This project explores the **Bikestore retail dataset** to uncover insights focus
 - Originally provided by [SQLServerTutorial.net](https://www.sqlservertutorial.net/getting-started/sql-server-sample-database/)
 
 ## Tableau Data Source
-Both dashboards use the same data source, created by joining multiple tables from the bikestore SQL database. The key relationships are:
+Both dashboards use a single data source, created by joining multiple tables from the bikestore SQL database. The key relationships in the data source are:
  - customers &#8594; orders &#8594; order_items &#8594; products
+ - products &#8594; brands
+ - products &#8594; categories
 
-
-
+The data source is included as an extract in the .twbx file, so users can interact with the dashboards with connecting to SQL Server database. 
 
 ## Usage
 
