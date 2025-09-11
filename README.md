@@ -1,5 +1,5 @@
 # Bikestore SQL & Tableau Analysis
-SQL + Tableau project analyzing the **BikestoreDataset**
+SQL + Tableau project analyzing the **Bikestore Dataset**
 
 ## Project Overview
 This project explores the **Bikestore Dataset** to uncover insights focusing on sales trends, customer behaviour, product performance and store efficiency. It combines **SQL** for data modelling, cleaning and advanced analytics with **Tableau** for interactive visualizations.
