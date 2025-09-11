@@ -2,7 +2,7 @@
 SQL + Tableau project analyzing the **BikestoreDataset**
 
 ## Project Overview
-This project explores the **Bikestore Dataset** to uncover insights focusing on sales trends, customer behaviour, product performance and store efficiency. It combines **SQL** for data modelling, cleaning and advanced analytics with **Tablea** for interactive visualizations.
+This project explores the **Bikestore Dataset** to uncover insights focusing on sales trends, customer behaviour, product performance and store efficiency. It combines **SQL** for data modelling, cleaning and advanced analytics with **Tableau** for interactive visualizations.
 - **SQL Scripts**: Build the database schema and generate key metrics such as total sales, average order value, top customers, brand performance, stock levels, shipping efficiency and staff contributions.
 - **Tableau dashboard**: Visualize these metrics through dashboards:
 1. **Sales Overview Dashboard**: Highlights overall sales performance, product category trends and monthly sales distribution.
