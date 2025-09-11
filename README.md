@@ -18,7 +18,7 @@ Both dashboards use a single data source, created by joining multiple tables fro
  - products &#8594; brands
  - products &#8594; categories
 
-The data source is included as an extract in the .twbx file, so users can interact with the dashboards with connecting to SQL Server database. 
+The data source is included as an extract in the .twbx file, so users can interact with the dashboards without connecting to SQL Server database. 
 
 ## Usage
 
