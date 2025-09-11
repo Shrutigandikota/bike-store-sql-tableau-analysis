@@ -29,5 +29,5 @@ The data source is included as an extract in the .twbx file, so users can intera
 4. Execute the remaining SQL scripts to generate insights.
 
 ### Tableau Setup
-1. Download and open [Bikestore Sales & Customer Insights.twbx](tableau_dashboards/Bikestore Sales & Customer Insights.twbx) in Tableau Desktop.
+1. Download and open [Bikestore Sales & Customer Insights.twbx](tableau_dashboards/Bikestore%20Sales%20&%20Customer%20Insights.twbx) in Tableau Desktop.
 2. Interact with visuals to explore insights.
