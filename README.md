@@ -5,8 +5,8 @@ SQL + Tableau project analyzing the **BikestoreDataset**
 This project explores the **Bikestore Dataset** to uncover insights focusing on sales trends, customer behaviour, product performance and store efficiency. It combines **SQL** for data modelling, cleaning and advanced analytics with **Tableau** for interactive visualizations.
 - **SQL Scripts**: Build the database schema and generate key metrics such as total sales, average order value, top customers, brand performance, stock levels, shipping efficiency and staff contributions.
 - **Tableau dashboard**: Visualize these metrics through dashboards:
-1. **Sales Overview Dashboard**: Highlights overall sales performance, product category trends and monthly sales distribution.
-2. **Customer Insights Dashboard**: Shows customer KPIs, new vs returning customers, state-wise distribution, top customers, brand preferences, customer count across sales bins and monthly active customers.
+### 1. **Sales Overview Dashboard**: Highlights overall sales performance, product category trends and monthly sales distribution.
+### 2. **Customer Insights Dashboard**: Shows customer KPIs, new vs returning customers, state-wise distribution, top customers, brand preferences, customer count across sales bins and monthly active customers.
 
 ## Dataset
 - Downloaded from [Kaggle](https://www.kaggle.com/datasets/dillonmyrick/bike-store-sample-database/data)
