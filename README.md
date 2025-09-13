@@ -1,4 +1,4 @@
-# Bikestore SQL & Tableau Analysis
+# Bikestore Sales Analysis with SQL & Tableau
 SQL + Tableau project analyzing the **Bikestore Dataset**
 
 ## Project Overview
